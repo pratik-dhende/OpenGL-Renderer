@@ -1,0 +1,13 @@
+﻿  camera.cpp
+  mvp.cpp
+  display.cpp
+  main.cpp
+F:\Visual Studio 2019\source\repos\Test OpenGL (SDL2)\Test OpenGL (SDL2)\Src\main.cpp(46,16): warning C4305: '+=': truncation from 'double' to 'float'
+  mesh.cpp
+  shaders.cpp
+  texture.cpp
+  transform.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'F:\Visual Studio 2019\source\repos\Test OpenGL (SDL2)\bin\Win32\Debug\vc120.pdb'; linking object as if no debug info
+  Test OpenGL (SDL2).vcxproj -> F:\Visual Studio 2019\source\repos\Test OpenGL (SDL2)\bin\Win32\Debug\Test OpenGL (SDL2).exe
